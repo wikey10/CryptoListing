@@ -22,7 +22,7 @@ A modern Android app built with Jetpack Compose for real-time cryptocurrency tra
 ## Setup
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-repo/crypto-tracker.git
+   git clone https://github.com/wikey10/CryptoListing.git
    ```
 2. Open in **Android Studio** and sync Gradle.
 3. Add your crypto API key.
