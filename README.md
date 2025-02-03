@@ -31,8 +31,5 @@ A modern Android app built with Jetpack Compose for real-time cryptocurrency tra
 ## Contribution
 Open to pull requests and issues.
 
-## License
-MIT License - see [LICENSE](LICENSE).
-
 ---
 🚀 *Built with Jetpack Compose & passion for crypto!*
